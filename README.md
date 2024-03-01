@@ -1,5 +1,6 @@
 # TextBasedWar
-(from the Bicycle website).
+(from the Bicycle website)
+
 The goal is to be the first player to win all 52 cards
 
 ## The Deal
